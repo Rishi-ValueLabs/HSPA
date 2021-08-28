@@ -1,0 +1,49 @@
+[
+  {
+    "Id":1,
+    "SellRent":2,
+    "Name":"Birla House",
+    "Type":"House",
+    "Price":12000,
+    "Image" : "prop-1"
+  },
+  {
+    "Id":2,
+    "SellRent":1,
+    "Name":"Mittal House",
+    "Type":"House",
+    "Price":13000,
+    "Image" : "prop-2"
+  },
+  {
+    "Id":3,
+    "SellRent":2,
+    "Name":"Ambani House",
+    "Type":"House",
+    "Price":22000,
+    "Image" : "prop-3"
+  },
+  {
+    "Id":4,
+    "SellRent":1,
+    "Name":"White House",
+    "Type":"House",
+    "Price":27000,
+    "Image" : "prop-4"
+  },
+  {
+    "Id":5,
+    "SellRent":1,
+    "Name":"Red House",
+    "Type":"House",
+    "Price":28000,
+    "Image" : "prop-5"
+  },
+  {
+    "Id":6,
+    "SellRent":1,
+    "Name":"Blue House",
+    "Type":"House",
+    "Price":29000
+  }
+]
